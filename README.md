@@ -1,2 +1,2 @@
 # IBM_DataToolsAndLanguages
-Activity for the IBM Data Analyst course
+Activity for the IBM Data Fundamentals course
